@@ -7,7 +7,8 @@
 
 This repository contains the complete implementation of the methodology described in the research paper:
 
-**"QUANTIFYING FAIR VALUE GAPS: A NOVEL METRIC FOR PRICE REACTION PREDICTION IN FINANCIAL MARKETS"**
+[**"QUANTIFYING FAIR VALUE GAPS: A NOVEL METRIC FOR PRICE REACTION PREDICTION IN FINANCIAL MARKETS"**](https://archive.org/details/quantifying-fair-value-gaps-a-novel-metric-for-price-reaction-prediction-in-financial-markets)
+
 
 ## Overview
 
